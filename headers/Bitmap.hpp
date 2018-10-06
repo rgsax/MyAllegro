@@ -4,6 +4,7 @@
 /*
 *	Fa parte di un insieme di classi per gestire le primitive fornite
 *	dalla libreria di Allegro.
+*	Definizione della classe Bitmap
 */
 
 #include <allegro5/allegro.h>
